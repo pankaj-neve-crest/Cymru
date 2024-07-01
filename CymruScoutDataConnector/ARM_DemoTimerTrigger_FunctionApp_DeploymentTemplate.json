@@ -184,7 +184,7 @@
                         "CymruScoutBaseURL": "[parameters('CymruScoutBaseURL')]",
                         "CymruScoutIPTableName": "[parameters('CymruScoutIPTableName')]",
                         "Schedule": "[parameters('CymruScoutSchedule')]",
-                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/pankaj-neve-crest/Cymru/tree/master/CymruScoutDataConnector"
+                        "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/pankaj-neve-crest/Cymru/raw/master/CymruScoutDataConnector/DemoTimerTrigger.zip"
                     }
                 }
             ]
